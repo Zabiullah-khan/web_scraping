@@ -1,0 +1,85 @@
+1.Der Name der Rose::Rating :: 7.7
+2.Se7en::Rating :: 8.6
+3.In the Heat of the Night::Rating :: 7.9
+4.The Fugitive::Rating :: 7.8
+5.The Girl with the Dragon Tattoo::Rating :: 7.8
+6.Salinui chueok::Rating :: 8.1
+7.The Silence of the Lambs::Rating :: 8.6
+8.Oldeuboi::Rating :: 8.4
+9.Zodiac::Rating :: 7.7
+10.Shutter Island::Rating :: 8.2
+11.Witness for the Prosecution::Rating :: 8.4
+12.Rear Window::Rating :: 8.5
+13.Angel Heart::Rating :: 7.2
+14.The Da Vinci Code::Rating :: 6.6
+15.Brick::Rating :: 7.2
+16.Prisoners::Rating :: 8.1
+17.6 donne per l'assassino::Rating :: 7.1
+18.Knives Out::Rating :: 7.9
+19.Profondo rosso::Rating :: 7.5
+20.Source Code::Rating :: 7.5
+21.Tenebre::Rating :: 7
+22.Blow Out::Rating :: 7.4
+23.L'uccello dalle piume di cristallo::Rating :: 7.1
+24.Gone Baby Gone::Rating :: 7.6
+25.Changeling::Rating :: 7.8
+26.The Maltese Falcon::Rating :: 8
+27.The Bone Collector::Rating :: 6.7
+28.The Big Sleep::Rating :: 7.9
+29.Den skyldige::Rating :: 7.5
+30.Madeo::Rating :: 7.8
+31.Chugyeokja::Rating :: 7.8
+32.In the Valley of Elah::Rating :: 7.2
+33.Angels & Demons::Rating :: 6.7
+34.Rising Sun::Rating :: 6.2
+35.The Wicker Man::Rating :: 7.5
+36.Searching::Rating :: 7.6
+37.Män som hatar kvinnor::Rating :: 7.8
+38.Primal Fear::Rating :: 7.7
+39.Wind River::Rating :: 7.7
+40.Nocturnal Animals::Rating :: 7.5
+41.Psycho::Rating :: 8.5
+42.Manhunter::Rating :: 7.2
+43.Hannibal::Rating :: 6.8
+44.Red Dragon::Rating :: 7.2
+45.Mystic River::Rating :: 7.9
+46.Murder on the Orient Express::Rating :: 6.5
+47.Jack Reacher::Rating :: 7
+48.Get Out::Rating :: 7.7
+49.Triangle::Rating :: 6.9
+50.Sleepy Hollow::Rating :: 7.3
+51.El orfanato::Rating :: 7.4
+52.The Conversation::Rating :: 7.8
+53.A Few Good Men::Rating :: 7.7
+54.Mississippi Burning::Rating :: 7.8
+55.Insomnia::Rating :: 7.2
+56.Laura::Rating :: 7.9
+57.Dressed to Kill::Rating :: 7.1
+58.Outland::Rating :: 6.6
+59.Fasandræberne::Rating :: 7.1
+60.Kvinden i buret::Rating :: 7.2
+61.Flaskepost fra P::Rating :: 7
+62.Journal 64::Rating :: 7.4
+63.Orphan::Rating :: 7
+64.The Hateful Eight::Rating :: 7.8
+65.Frequency::Rating :: 7.4
+66.Gone Girl::Rating :: 8.1
+67.Predestination::Rating :: 7.4
+68.Disturbia::Rating :: 6.8
+69.Kiss the Girls::Rating :: 6.6
+70.Presumed Innocent::Rating :: 6.9
+71.Flightplan::Rating :: 6.3
+72.Devil::Rating :: 6.3
+73.Opera::Rating :: 6.9
+74.4 mosche di velluto grigio::Rating :: 6.6
+75.Black Christmas::Rating :: 7.1
+76.Eagle Eye::Rating :: 6.6
+77.Fallen::Rating :: 7
+78.True Detective::Rating :: 8.9
+79.Mindhunter::Rating :: 8.6
+80.Bron/Broen::Rating :: 8.6
+81.Dexter::Rating :: 8.7
+82.Sherlock::Rating :: 9.1
+83.Unbelievable::Rating :: 8.4
+84.Manhunt::Rating :: 8.1
+85.Wayward Pines::Rating :: 7.3
